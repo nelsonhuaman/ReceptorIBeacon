@@ -3,5 +3,5 @@
 
 Los valores que detecta son
 
-Mayor mayor temperatura.
-Minor para humedad.
+- Mayor mayor temperatura.
+- Minor para humedad.
